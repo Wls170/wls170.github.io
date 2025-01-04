@@ -2,16 +2,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text Color and Animation</title> <!-- Only one <title> tag should be here -->
+    <title>Text Color and Animation</title> 
     <style>
-        /* Define the blink animation */
+      
         @keyframes blink {
             0% { opacity: 1; }
             50% { opacity: 0; }
             100% { opacity: 1; }
         }
 
-        /* Define the scroll animation */
+  
         @keyframes scroll {
             0% {
                 transform: translateX(100%);
@@ -21,14 +21,14 @@
             }
         }
 
-        /* Set the background color for the entire page */
+        
         body {
             background-color: lightgray; /* Background color applied to the body */
             margin: 0; /* Remove any default margin */
             font-family: Arial, sans-serif; /* Optional: Make the text more readable */
         }
 
-        /* Apply both scrolling and blinking animation to the text */
+        
         .scroll-blink {
             color: red;
             font-size: 36px;
@@ -39,7 +39,7 @@
 </head>
 <body>
 
-    <!-- Blinking and scrolling text -->
+  
     <h1 class="scroll-blink">Hello World!</h1>
 
     <!-- An image with a set width and height -->
