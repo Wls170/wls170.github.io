@@ -20,7 +20,7 @@
 </head>
 <body>
 
-    <h1 class="blink">This text is blinking!</h1>
+    <h1 class="Hello World!</h1>
 
 </body>
 </html>
