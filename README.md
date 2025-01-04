@@ -2,8 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      
-    <title>Change BAckground Color</title>
+      <title> Text Color and Animation </title>
+    <title>Change Background Color</title>
     <style>
        
         @keyframes blink {
