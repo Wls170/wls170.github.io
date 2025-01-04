@@ -27,7 +27,7 @@
             color: red;
             font-size: 36px;
             white-space: nowrap; 
-            animation: blink 1s infinite, scroll 5s linear 1;
+            animation: blink 1s infinite, scroll 5s linear 0;
         }
     </style>
 </head>
