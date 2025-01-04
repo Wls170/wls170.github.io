@@ -20,8 +20,7 @@
             animation: blink 1s infinite; /* 1 second duration, infinite loop */
         }
 
-        .h2
-        font-size: 13px;
+       
         
     
     
@@ -31,6 +30,6 @@
 <body>
 
     <h1 class="blink"> Hello World! </h1>
-   <h2> Thanks for visiting!.  On this page you can view my resume, learn a little bit more about me and view projects that I am working on or that I have completed.</h2>
+   <h2 style="font-zixe:  20 px;"> Thanks for visiting!.  On this page you can view my resume, learn a little bit more about me and view projects that I am working on or that I have completed.</h2>
 </body>
 </html>
