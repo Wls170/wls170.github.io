@@ -22,7 +22,7 @@
             }
         }
 
-     
+     background-color: lightgray; 
         .scroll-blink {
             color: red;
             font-size: 36px;
