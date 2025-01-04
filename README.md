@@ -1,13 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset "utf-8">
-  <meta name= "viewport" content="width-device-width, initial scale-1"
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blinking Text</title>
+    <style>
+        /* Create the blink animation */
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
 
-<head>
+        /* Apply the animation to the blinking text */
+        .blink {
+            animation: blink 1s infinite; /* 1 second duration, infinite loop */
+        }
+    </style>
+</head>
 <body>
-  <blink> Hello world!</blink> 
 
-    
+    <h1 class="blink">This text is blinking!</h1>
+
 </body>
 </html>
+
