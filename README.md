@@ -18,7 +18,7 @@
                 transform: translateX(100%);
             }
             100% {
-                transform: translateX(-100%);
+                transform: translateX(-50%);
             }
         }
 
@@ -27,7 +27,7 @@
             color: red;
             font-size: 36px;
             white-space: nowrap; 
-            animation: blink 1s infinite, scroll 5s linear 0;
+            animation: blink 1s infinite, scroll 5s linear 1;
         }
     </style>
 </head>
