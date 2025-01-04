@@ -24,6 +24,7 @@
 <body>
 
     <h1 class="blink"> Hello World! </h1>
+   <h2> Thanks for visiting!.  I made this website to showcase my resume, an about me section, projects and for more experience with html and css </h2>
    
 </body>
 </html>
