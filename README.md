@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text Color and Animation</title>    
+      
     <title>Change BAckground Color</title>
     <style>
        
@@ -21,7 +21,7 @@
                 transform: translateX(-50%);
             }
         }
-
+    <title>Change BAckground Color</title>
      background-color: lightgray; 
         
         .scroll-blink {
