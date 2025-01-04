@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +19,7 @@
             animation: blink 1s infinite; /* 1 second duration, infinite loop */
         }
 
-       
+          
         
     
     
