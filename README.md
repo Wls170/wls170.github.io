@@ -19,12 +19,18 @@
             color: red;
             animation: blink 1s infinite; /* 1 second duration, infinite loop */
         }
+
+        .h2
+        font-size: 13px;
+        
+    
+    
+    
     </style>
 </head>
 <body>
 
     <h1 class="blink"> Hello World! </h1>
-   <h2> Thanks for visiting!.  I made this website to showcase my resume, an about me section, projects and for more experience with html and css </h2>
-   
+   <h2> Thanks for visiting!.  On this page you can view my resume, learn a little bit more about me and view projects that I am working on or that I have completed.</h2>
 </body>
 </html>
