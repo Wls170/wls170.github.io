@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blinking Text</title>
+    <title>Blinking Red Text</title>
+    <title> Text Color</title>    
+ 
     <style>
         
         @keyframes blink {
@@ -14,6 +16,7 @@
 
         /* Apply the animation to the blinking text */
         .blink {
+            color: red;
             animation: blink 1s infinite; /* 1 second duration, infinite loop */
         }
     </style>
@@ -21,6 +24,6 @@
 <body>
 
     <h1 class="blink"> Hello World! </h1>
-
+   
 </body>
 </html>
