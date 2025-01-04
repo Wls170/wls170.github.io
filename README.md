@@ -14,7 +14,7 @@
         }
 
         /* Apply the animation to the blinking text */
-        .blink {
+        .scroll-blink {
             color: red;
             animation: blink 1s infinite; /* 1 second duration, infinite loop */
         }
