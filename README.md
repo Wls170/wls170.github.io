@@ -36,9 +36,9 @@
         }, 3000); 
     </script>
  <!-- Sidebar settings ws-->
- <div class="sidenav">
+ <div class="sidebar">
 <a href = "#"> About Me </a>
-<a href = #"> My Resume </a>
+<a href = "#"> My Resume </a>
 <a href = "#"> Projects </a>
 <a href = "#"> Contact </a>
  </div>
