@@ -16,7 +16,7 @@
             justify-content: center;
             align-items: center;
             z-index: 100;
-            font-size: 5em; <!-- splash screen text size ws -->
+            font-size: 5em; 
         }
 
         body {
@@ -59,14 +59,14 @@
 </head>
 <body>
     <div id="splash-screen">Hello World!</div> 
-    <!-- Splash screen message ws -->
+    >
 
     <script>
         setTimeout(function() {
             document.getElementById('splash-screen').style.display = 'none';
         }, 3000); 
     </script>
-<!-- Sidebar menus ws-->
+
  <div id="sidebar">
     <a href = "#"> About Me </a>
     <a href = "#"> My Resume </a>
