@@ -35,7 +35,7 @@
         padding-top:10px;  <!--Adding some space to buffer the side bar ws -->
         padding-left:10px;
         box-sizing: border-box; <!--Padding in width ws-->
-    
+            }
     
     
     
