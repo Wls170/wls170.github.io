@@ -35,7 +35,13 @@
             document.getElementById('splash-screen').style.display = 'none';
         }, 3000); 
     </script>
-
+ <!-- Sidebar settings ws-->
+ <div class="sidenav">
+<a href = "#"> About Me </a>
+<a href = #"> My Resume </a>
+<a href = "#"> Projects </a>
+<a href = "#"> Contact </a>
+ </div>
  
 
 
