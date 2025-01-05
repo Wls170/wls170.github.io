@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flashing Splash Screen</title> 
     <style>
+        // SPlash screen settings ws
         #splash-screen {
             position: fixed;
             top: 0;
@@ -27,11 +28,11 @@
     </style>
 </head>
 <body>
-
+    // Text for the splash screen ws
     <div id="splash-screen">Hello World!</div>
 
     <script>
-       
+       // Hide splash screen after 3 secs ws
         setTimeout(function() {
             document.getElementById('splash-screen').style.display = 'none';
         }, 3000); 
