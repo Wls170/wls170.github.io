@@ -4,26 +4,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flashing Splash Screen </title> 
     <style>
-      #splash-Screen
+        #splash-screen {
           position: fixed;
           top 0;
           left:0 
           width: 100;
           height: 100;
-          Background-color: black;
+          background-color: black;
           text-color: white;
           display: flex;
           justify-content: center;
           align-items: center;
           z-index: 100;
+          font-size: 2em;
           }
        
 
         
         body {
-            background-color: lightgray; /* Background color applied to the body */
-            margin: 0; /* Remove any default margin */
-            font-family: Arial, sans-serif; /* Optional: Make the text more readable */
+            background-color: lightgray;
+            margin: 0; /* Remove any default margin 
+            font-family: Arial, sans-serif; 
         }
 
         
@@ -36,7 +37,7 @@
   <div id="splash-screen"> Hello world! </div>
   <script>
       setTimeout(function() {
-      document.getElementbyId('splash-screen').style.display = 'none;
+      document.getElementbyId('splash-screen').style.display = 'none';
           }, 3000); 
   </script>
     
