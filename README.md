@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +16,7 @@
             justify-content: center;
             align-items: center;
             z-index: 100;
-            font-size: 2em; 
+            font-size: 5em; 
         }
 
         body {
@@ -38,9 +37,6 @@
         }, 3000); 
     </script>
 
-</body>
-</html>
-
  
 
 
@@ -51,8 +47,6 @@
 
     <p style="font-size: 20px;">Currently I work full-time as a production supervisor at a performance chemicals company. I am also actively pursuing my BS in Computer Science with a concentration in Software Engineering. I want to create websites and apps to make people's jobs and lives better. I enjoy learning how things work and building them to be better.</p>
 
-</body>
-</html>
 
 
 
