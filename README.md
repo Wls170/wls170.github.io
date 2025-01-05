@@ -1,46 +1,47 @@
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flashing Splash Screen </title> 
+    <title>Flashing Splash Screen</title> 
     <style>
         #splash-screen {
-          position: fixed;
-          top 0;
-          left:0 
-          width: 100;
-          height: 100;
-          background-color: black;
-          text-color: white;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          z-index: 100;
-          font-size: 2em;
-          }
-       
-
-        
-        body {
-            background-color: lightgray;
-            margin: 0; /* Remove any default margin 
-            font-family: Arial, sans-serif; 
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            color: white; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+            font-size: 2em; 
         }
 
-        
-        
-     
+        body {
+            background-color: lightgray;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
     </style>
 </head>
 <body>
 
-  <div id="splash-screen"> Hello world! </div>
-  <script>
-      setTimeout(function() {
-      document.getElementbyId('splash-screen').style.display = 'none';
-          }, 3000); 
-  </script>
-    
+    <div id="splash-screen">Hello World!</div>
+
+    <script>
+       
+        setTimeout(function() {
+            document.getElementById('splash-screen').style.display = 'none';
+        }, 3000); 
+    </script>
+
+</body>
+</html>
+
+ 
 
 
     <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OrEK-w6nDWcQ7kNvgFWSvE5&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=ASZxaYnT2GLOsh2-NM6-scY&oh=00_AYBEogK94jrBQBqG0QVkIsKc4fV7N5HbAL74oYjNAr5y0A&oe=677F912D" alt="WillStearn" width="500" height="500">
