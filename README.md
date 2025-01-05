@@ -24,18 +24,18 @@
             margin: 0;
             font-family: Arial, sans-serif;
         }
-    #sidebar{
+    #sidebar {
         width: 250px; <!-- width and height of sidebar ws -->
         height:100%;
         background-color: black;
         position: fixed;
         top:0;    <!-- alignment on the page ws -->
         left:0;
-        text-color: white;
+        color: white; <!--text color ws -->
         padding-top:10px;  <!--Adding some space to buffer the side bar ws -->
         padding-left:10px;
-        box-sizing: border-box; <!--Padding in width ws-->
-            }
+        box-sizing: border-box; <!--Padding in width ws-->      
+        }
     
     
     
@@ -60,7 +60,7 @@
         }, 3000); 
     </script>
 <!-- Sidebar menus ws-->
- <div class="sidebar">
+ <div id="sidebar">
     <a href = "#"> About Me </a>
     <a href = "#"> My Resume </a>
     <a href = "#"> Projects </a>
