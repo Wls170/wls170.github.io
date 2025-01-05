@@ -25,25 +25,25 @@
             font-family: Arial, sans-serif;
         }
     #sidebar {
-        width: 250px; <!-- width and height of sidebar ws -->
+        width: 250px; 
         height:100%;
         background-color: black;
         position: fixed;
-        top:0;    <!-- alignment on the page ws -->
+        top:0;   
         left:0;
         z-index: 1;
-        color: white; <!--text color ws -->
-        padding-top:10px;  <!--Adding some space to buffer the side bar ws -->
+        color: white; 
+        padding-top:10px;  
         padding-left:10px;
-        box-sizing: border-box; <!--Padding in width ws-->      
+        box-sizing: border-box;       
         }
     
-       <!-- sidebar styling -->
+     
        #sidebar a {
        color: white;
        text-decoration: none;
        display: block;
-       margin: 10px 0; <!-- space between my links-->
+       margin: 10px 0; 
        font-size: 1.5em;
        }
     
