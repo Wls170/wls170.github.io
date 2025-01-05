@@ -31,8 +31,7 @@
         position: fixed;
         top:0;   
         left:0;
-        z-index: 1;
-        color: white; 
+         color: white; 
         padding-top:10px;  
         padding-left:10px;
         box-sizing: border-box;       
