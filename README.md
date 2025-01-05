@@ -31,6 +31,7 @@
         position: fixed;
         top:0;    <!-- alignment on the page ws -->
         left:0;
+        z-index: 1;
         color: white; <!--text color ws -->
         padding-top:10px;  <!--Adding some space to buffer the side bar ws -->
         padding-left:10px;
