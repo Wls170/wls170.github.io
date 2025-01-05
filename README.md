@@ -37,7 +37,14 @@
         box-sizing: border-box; <!--Padding in width ws-->      
         }
     
-    
+       <!-- sidebar styling -->
+       #sidebar a {
+       color: white;
+       text-decorations: none;
+       display: block;
+       margin; 10px 0; <!-- space between my links-->
+       font-size: 1.5em;
+       }
     
     
     
