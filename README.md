@@ -40,9 +40,9 @@
        <!-- sidebar styling -->
        #sidebar a {
        color: white;
-       text-decorations: none;
+       text-decoration: none;
        display: block;
-       margin; 10px 0; <!-- space between my links-->
+       margin: 10px 0; <!-- space between my links-->
        font-size: 1.5em;
        }
     
