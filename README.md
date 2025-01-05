@@ -24,6 +24,30 @@
             margin: 0;
             font-family: Arial, sans-serif;
         }
+    #sidebar{
+        width: 250px; <!-- width and height of sidebar ws -->
+        height:100%;
+        background-color: black;
+        position: fixed;
+        top:0;    <!-- alignment on the page ws -->
+        left:0;
+        text-color: white;
+        padding-top:10px;  <!--Adding some space to buffer the side bar ws -->
+        padding-left:10px;
+        box-sizing: border-box; <!--Padding in width ws-->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     </style>
 </head>
 <body>
@@ -35,13 +59,13 @@
             document.getElementById('splash-screen').style.display = 'none';
         }, 3000); 
     </script>
- <!-- Sidebar settings ws-->
+<!-- Sidebar menus ws-->
  <div class="sidebar">
-<a href = "#"> About Me </a>
-<a href = "#"> My Resume </a>
-<a href = "#"> Projects </a>
-<a href = "#"> Contact </a>
- </div>
+    <a href = "#"> About Me </a>
+    <a href = "#"> My Resume </a>
+    <a href = "#"> Projects </a>
+    <a href = "#"> Contact </a>
+     </div>
  
 
 
