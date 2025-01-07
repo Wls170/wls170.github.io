@@ -42,7 +42,7 @@
        margin: 10px 0; 
        font-size: 1.5em;
        }
-    .circle-crop {
+    #circle-crop {
     width: 200px;
     height: 200px;
     overflow: hidden;
@@ -51,7 +51,7 @@
     justify-content: center;
     align-items: center;
         }
-      .circle-crop img {
+      #circle-crop img {
     width: 100%;
     height:100%;
     object-fit: cover;
