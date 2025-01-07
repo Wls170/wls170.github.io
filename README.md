@@ -46,6 +46,8 @@
        font-size: 1.5em;
        }
     
+   
+
     
     
     
@@ -69,7 +71,7 @@
 
  <div id="sidebar">
     <a href = "#"> About Me </a>
-    <a href = "#"> My Resume </a>
+    <a href = "C:\Users\willi\OneDrive\Desktop\New resume .docx"> My Resume </a>
     <a href = "#"> Projects </a>
     <a href = "#"> Contact </a>
      </div>
