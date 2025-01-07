@@ -43,8 +43,8 @@
        font-size: 1.5em;
        }
     #circle-crop {
-    width: 400px;
-    height:400px;
+    width: 100%;
+    height:100%;
     overflow: hidden;
    border-radius: 50%;
     display: flex;
