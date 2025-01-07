@@ -53,8 +53,8 @@
     margin: 20px auto;
         }
       #circle-crop img {
-    width: 100%;
-    height:100%;
+    width: 600px;
+    height: auto;
     object-fit: cover;
     object-position: 100% center;
         }
