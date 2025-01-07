@@ -70,7 +70,7 @@
 
  <div id="sidebar">
     <a href = "#"> About Me </a>
-    <a href = "C:\Users\willi\OneDrive\Desktop\New resume .docx" target= "_blank"> My Resume </a>
+    <a href = "file///C:/Users/willi/OneDrive/Desktop/New%20resume%20.docx" target = "_blank"> My Resume </a>
     <a href = "#"> Projects </a>
     <a href = "#"> Contact </a>
      </div>
