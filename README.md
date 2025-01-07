@@ -18,7 +18,6 @@
             z-index: 100;
             font-size: 5em; 
         }
-
         body {
             background-color: lightgray;
             margin: 0;
@@ -36,8 +35,6 @@
         padding-left:10px;
         box-sizing: border-box;       
         }
-    
-     
        #sidebar a {
        color: white;
        text-decoration: none;
@@ -46,10 +43,9 @@
        font-size: 1.5em;
        }
     #img {
-
-
-
-
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
         }
    
 
