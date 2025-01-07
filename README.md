@@ -46,6 +46,7 @@
     width: 200px;
     height: 200px;
     overflow: hidden;
+   border-radius: 50%;
     display: flex;
     justify-content: center;
     align_items: center;
