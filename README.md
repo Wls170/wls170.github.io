@@ -91,7 +91,7 @@
  
     <p style="font-size: 20px;">Thanks for visiting! On this website, you can view my resume, learn a little bit more about me, view projects that I am working on (this is my first!) or have completed, check out my LinkedIn and find my contact info! </p>
 
-    <p style="font-size: 26px;"> Currently I work full-time as a Production Supervisor at a Synthomer. Synthomer supplies highly specialized polymers to multiple industries worldwide. I have been with them since 2018 starting from an entry level worker and progressively working my way up to supervisor. I am also pursuing my BS in Computer Science at Southern New Hampshire University (SNHU). I am taking classes geared towards Software Engineering with an expected completion date of early 2027. In  my free time I enjoy spending time with my family, practicing my coding skill, checking out new spots around town and gaming. </p>
+    <p style="font-size: 22px;"> Currently I work full-time as a Production Supervisor at a Synthomer. Synthomer supplies highly specialized polymers to multiple industries worldwide. I have been with them since 2018 starting from an entry level worker and progressively working my way up to supervisor. I am also pursuing my BS in Computer Science at Southern New Hampshire University (SNHU). I am taking classes geared towards Software Engineering with an expected completion date of early 2027. In  my free time I enjoy spending time with my family, practicing my coding skill, checking out new spots around town and gaming. </p>
 
 
 
