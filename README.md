@@ -50,7 +50,7 @@
     display: flex;
     justify-content: center;
     align_items: center;
-        
+        }
       .circle-crop img {
     width: 100%;
     height:100%;
