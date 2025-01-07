@@ -49,7 +49,7 @@
    border-radius: 50%;
     display: flex;
     justify-content: center;
-    align_items: center;
+    align-items: center;
         }
       .circle-crop img {
     width: 100%;
