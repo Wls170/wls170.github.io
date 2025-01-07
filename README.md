@@ -46,7 +46,7 @@
     width: 400px;
     height:400px;
     overflow: hidden;
-   border-radius: 50%;
+   border-radius: 40%;
     display: flex;
     justify-content: center;
     align-items: center;
