@@ -61,8 +61,7 @@
 </head>
 <body>
     <div id="splash-screen">Hello World!</div> 
-    >
-
+   
     <script>
         setTimeout(function() {
             document.getElementById('splash-screen').style.display = 'none';
