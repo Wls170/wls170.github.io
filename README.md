@@ -74,8 +74,8 @@
     </script>
 
  <div id="sidebar">
-    <a href = "#"> About Me </a>
-    <a href = "https://docs.google.com/document/d/1hT3L5L15tXU9I19EtVc4c99L4t3DAc9u/edit?usp=sharing&ouid=101206748234661541234&rtpof=true&sd=true" target="_blank"> My Resume </a>
+    <a href = "www.linkedin.com/in/william-s-4120a0254" target="_blank"> Check out my LinkedIn Profile! </a>
+    <a href = "https://docs.google.com/document/d/1hT3L5L15tXU9I19EtVc4c99L4t3DAc9u/edit?usp=sharing&ouid=101206748234661541234&rtpof=true&sd=true" target="_blank"> Link to my resume </a>
     <a href = "#"> Projects </a>
     <a href = "#"> Contact </a>
      </div>
