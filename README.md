@@ -43,8 +43,8 @@
        font-size: 1.5em;
        }
     #circle-crop {
-    width: 100%;
-    height:100%;
+    width:600px;
+    height: 600px;
     overflow: hidden;
    border-radius: 50%;
     display: flex;
@@ -53,10 +53,10 @@
     margin: 20px auto;
         }
       #circle-crop img {
-    width: 600px;
-    height: auto;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    object-position: 100% center;
+    object-position: 150% center;
         }
    
 
