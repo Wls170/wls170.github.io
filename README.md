@@ -90,7 +90,9 @@
     <a href = "https://docs.google.com/document/d/1hT3L5L15tXU9I19EtVc4c99L4t3DAc9u/edit?usp=sharing&ouid=101206748234661541234&rtpof=true&sd=true" target="_blank"> Link to my resume! </a>
     <a href = "https://github.com/Wls170?tab=repositories" target= "_blank"> Projects </a>
         </div>
-   <p style="font-size: 20px;">Thanks for visiting! On this website, you can view my resume, learn a little bit more about me, view projects that I am working on (this is my first!) or have completed, check out my LinkedIn and find my contact info! </p>
+   <p style="font-size: 20px;"> Thank you for taking the time to visit my website! I hope you found everything you were looking for. 
+    Feel free to explore more about my projects, experiences, and connect with me. If you have any questions 
+    or would like to collaborate, don't hesitate to reach out. Your feedback and support are greatly appreciated! </p>
 <div class = "image-text-container">
     <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OrEK-w6nDWcQ7kNvgFWSvE5&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=ASZxaYnT2GLOsh2-NM6-scY&oh=00_AYBEogK94jrBQBqG0QVkIsKc4fV7N5HbAL74oYjNAr5y0A&oe=677F912D" alt="WillStearn"> 
  <div class= "text-content">
