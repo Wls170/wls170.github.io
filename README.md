@@ -42,26 +42,34 @@ body {
        margin: 10px 0; 
        font-size: 1.5em;
        }            
- .image-text-container  {
+ .main-container {
+            display: flex;
+            justify-content: space-between;
+            margin-left: 270px;
+            margin-top: 30px;
+            }
+        
+        
+        
+   .image-text-container  {
         display: flex; 
-       flex-direction: row;
+       flex-direction: column;
         align-items: center; 
-        justify-content: space-between;
+        justify-content:center;
         margin: 20px;
-        margin-left: 270px; 
+        width: 30% ;
         }
   .image-text-container img {
             width: 300px !important  ;  
             height: 300px !important ; 
             border-radius: 50%;
             object-fit: cover;
-            margin-right: 20px; 
-            margin-left: 20px;
+            margin-bottom: 20px;
         }
 .text-content {
         font-size: 18px;
             font-family: Arial, sans-serif;
-            max-width:45%;
+            max-width:80%;
             text-align: center;
         }
    
@@ -158,10 +166,9 @@ body {
         <p><b> Leadership  </b> </p>
         <p><b> Python  </b> </p>
         </div>
-</div>
-
+<div class="image-text-container">
        <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OrEK-w6nDWcQ7kNvgFWSvE5&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=ASZxaYnT2GLOsh2-NM6-scY&oh=00_AYBEogK94jrBQBqG0QVkIsKc4fV7N5HbAL74oYjNAr5y0A&oe=677F912D" alt="WillStearn"> 
-
+</div>
    
     <div class= "text-content">
     <h2> Details: </h2>
@@ -170,7 +177,7 @@ body {
 <p><b> Location: Barberton, Ohio </b></p>
 <p><b> Email: Wls170@icloud.com </b></p>
     </div>
-     
+</div>     
    
     <h3> About me: </h3>
     <p style="font-size: 22px;"> Currently I work full-time as a Production Supervisor at a Synthomer. Synthomer supplies highly specialized polymers to multiple industries worldwide. I have been with them since 2018 starting from an entry level worker and progressively working my way up to supervisor. I am also pursuing my BS in Computer Science at Southern New Hampshire University (SNHU). I am taking classes geared towards Software Engineering with an expected completion date of early 2027. In  my free time I enjoy spending time with my family, practicing my coding skill, checking out new spots around town and gaming. </p>
