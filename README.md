@@ -50,11 +50,11 @@
 
       
         .image-text-container img {
-            width: 150px;  
-            height: 150px; 
+            width: 300px;  
+            height: 300px; 
             border-radius: 50%;
             object-fit: cover;
-            margin-right: 50px; 
+            margin-right: 100px; 
         }
 
        
