@@ -54,7 +54,7 @@
             height: 150px; 
             border-radius: 50%;
             object-fit: cover;
-            margin-right: 20px; 
+            margin-right: 50px; 
         }
 
        
