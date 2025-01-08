@@ -95,7 +95,7 @@
     <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OrEK-w6nDWcQ7kNvgFWSvE5&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=ASZxaYnT2GLOsh2-NM6-scY&oh=00_AYBEogK94jrBQBqG0QVkIsKc4fV7N5HbAL74oYjNAr5y0A&oe=677F912D" alt="WillStearn"> 
  <div class= "text-content">
     <h2> Details: </h2>
-<p> Name: William Stearn /<p>
+<p> Name: William Stearn </p>
 <p> Age: 35 </p>
 <p> Location: Barberton, Ohio </p>
 <p> Email: Wls170@icloud.com </p>
