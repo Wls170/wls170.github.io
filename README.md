@@ -46,7 +46,7 @@ body {
         display: flex; 
        flex-direction: row;
         align-items: center; 
-        justify-content: space between;
+        justify-content: space-between;
         margin: 20px;
         margin-left: 270px; 
         }
@@ -145,9 +145,11 @@ body {
     <a href = "https://docs.google.com/document/d/1hT3L5L15tXU9I19EtVc4c99L4t3DAc9u/edit?usp=sharing&ouid=101206748234661541234&rtpof=true&sd=true" target="_blank"> Link to my resume! </a>
     <a href = "https://github.com/Wls170?tab=repositories" target= "_blank"> Projects </a>
         </div>
+   
    <p style="font-size: 20px;"> Thank you for taking the time to visit my website! I hope you find everything you were looking for. 
     Feel free to explore more about my projects (this is my first), experiences, and connect with me. If you have any questions 
     or would like to collaborate, don't hesitate to reach out. Your feedback and support are greatly appreciated! </p>
+
 <div class="image-text-container">
     <div class = "text-content">
       <h2> Skills: </h2>
@@ -155,6 +157,8 @@ body {
         <p><b> Microsoft Products  </b> </p>
         <p><b> Leadership  </b> </p>
         <p><b> Python  </b> </p>
+    </div>
+    
 <div class = "image-text-container">
     <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OrEK-w6nDWcQ7kNvgFWSvE5&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=ASZxaYnT2GLOsh2-NM6-scY&oh=00_AYBEogK94jrBQBqG0QVkIsKc4fV7N5HbAL74oYjNAr5y0A&oe=677F912D" alt="WillStearn"> 
  <div class= "text-content">
