@@ -63,25 +63,28 @@ body {
         }
    
  @media(min-width: 600px) {
-    body {
     #sidebar {
     width:250px;
     position: fixed;
     height: 100%;
     }
+ 
  .image-text-container img {
     width:120px;
     height:120px;
     }
+ 
  .image-text-container (
     flex-direction: row;
     margin-left: 270px;
     }
+  
   .text-content{
     text-align: center;
     font-size:16px;
     margin:10px;
     }
+  }
    @media(max-width: 600px) {
             body {
             display: flex;
@@ -90,7 +93,7 @@ body {
             }
 
    #sidebar {
-              width:60%;
+              width: 100%;
               position: relative; 
                height: auto;
               padding: 10px;
