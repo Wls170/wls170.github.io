@@ -18,12 +18,12 @@
             z-index: 100;
             font-size: 5em; 
         }
-        body {
+body {
             background-color: lightgray;
             margin: 0;
             font-family: Arial, sans-serif;
         }
-    #sidebar {
+#sidebar {
         width: 250px; 
         height:100%;
         background-color: black;
@@ -35,50 +35,49 @@
         padding-left:10px;
         box-sizing: border-box;       
         }
-       #sidebar a {
+  #sidebar a {
        color: white;
        text-decoration: none;
        display: block;
        margin: 10px 0; 
        font-size: 1.5em;
        }            
-    .image-text-container  {
+ .image-text-container  {
         display: flex; 
        flex-direction: row;
         align-items: center; 
         margin: 20px;
         margin-left: 270px; 
         }
-        .image-text-container img {
+  .image-text-container img {
             width: 600px !important;  
             height: 600px !important; 
             border-radius: 50%;
             object-fit: cover;
             margin-right: 100px; 
         }
-
-        .text-content {
-            font-size: 18px;
+.text-content {
+        font-size: 18px;
             font-family: Arial, sans-serif;
             max-width: 60%;
         }
    
-    @media(min-width: 600px) {
+ @media(min-width: 600px) {
     body {
     #sidebar {
     width:250px;
     position: fixed;
     height: 100%;
     }
-    .image-text-container img {
+ .image-text-container img {
     width:120px;
     height:120px;
     }
-    .image-text-container (
+ .image-text-container (
     flex-direction: row;
     margin-left: 270px;
     }
-    .text-content{
+  .text-content{
     text-align: center;
     font-size:16px;
     margin:10px;
@@ -86,29 +85,29 @@
    @media(max-width: 600px) {
             body {
             display: flex;
-                flex-direction: column; 
-                margin-left: 0;
+             flex-direction: column; 
+            margin-left: 0;
             }
 
-            #sidebar {
-                width:60%;
-                position: relative; 
-                height: auto;
-                padding: 10px;
-                box-sizing: border-box;
+   #sidebar {
+              width:60%;
+              position: relative; 
+               height: auto;
+              padding: 10px;
+             box-sizing: border-box;
             }
 
-            .image-text-container {
+ .image-text-container {
                 flex-direction: column;
                 margin-left: 0; 
             }
 
-            .image-text-container img {
+ .image-text-container img {
                 width: 100px;
                 height: 100px;
             }
 
-            .text-content {
+ .text-content {
                 font-size: 14px;
                 text-align: center;
             }
@@ -124,12 +123,12 @@
     
     
     
-    </style>
+ </style>
 </head>
 <body>
     <div id="splash-screen">Hello World!</div> 
    
-    <script>
+  <script>
         setTimeout(function() {
             document.getElementById('splash-screen').style.display = 'none';
         }, 3000); 
