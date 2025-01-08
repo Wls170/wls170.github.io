@@ -41,15 +41,12 @@
        display: block;
        margin: 10px 0; 
        font-size: 1.5em;
-       }
+       }            
     .image-text-container  {
         display: flex; 
-        flex-direction: column;
         align-items: center; 
         margin: 20px;
         }
-
-      
         .image-text-container img {
             width: 300px;  
             height: 300px; 
@@ -58,14 +55,32 @@
             margin-right: 100px; 
         }
 
-       
         .text-content {
             font-size: 18px;
             font-family: Arial, sans-serif;
             max-width: 60%;
         }
    
-
+    @media(min-width: 600px) {
+    #sidebar {
+    width: 100%;
+    position: static;
+    height: auto;
+    }
+    .image-text-container img {
+    width:120px;
+    height:120px;
+    }
+    .image-text-container (
+    flex-direction:column;
+    }
+    .text-content;{
+    text-align:center;
+    font-size:16px;
+    margin:10px;
+    }
+    }
+    
     
     
     
