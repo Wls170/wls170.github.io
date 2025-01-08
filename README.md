@@ -47,6 +47,7 @@
        flex-direction: row;
         align-items: center; 
         margin: 20px;
+        margin-left: 270px; 
         }
         .image-text-container img {
             width: 300px;  
@@ -64,9 +65,9 @@
    
     @media(min-width: 600px) {
     #sidebar {
-    width: 100%;
+    width:250px;
     position: fixed;
-    height: auto;
+    height: 100%;
     }
     .image-text-container img {
     width:120px;
@@ -81,6 +82,35 @@
     font-size:16px;
     margin:10px;
     }
+   @media(max-width: 600px) {
+            body {
+                flex-direction: column; 
+                margin-left: 0;
+            }
+
+            #sidebar {
+                width: 100%;
+                position: relative; 
+                height: auto;
+                padding: 10px;
+                box-sizing: border-box;
+            }
+
+            .image-text-container {
+                flex-direction: column;
+                margin-left: 0; 
+            }
+
+            .image-text-container img {
+                width: 100px;
+                height: 100px;
+            }
+
+            .text-content {
+                font-size: 14px;
+                text-align: center;
+            }
+    
     }
     
     
