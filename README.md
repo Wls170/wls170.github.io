@@ -50,8 +50,8 @@
         margin-left: 270px; 
         }
         .image-text-container img {
-            width: 900px;  
-            height: 900px; 
+            width: 600px !important;  
+            height: 600px !important; 
             border-radius: 50%;
             object-fit: cover;
             margin-right: 100px; 
