@@ -89,8 +89,8 @@
             }
 
             #sidebar {
-                width: 100%;
-                position: relative; 
+                width:60%;
+                position: fixed; 
                 height: auto;
                 padding: 10px;
                 box-sizing: border-box;
