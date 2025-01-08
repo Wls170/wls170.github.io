@@ -142,7 +142,7 @@ body {
     <a href = "https://docs.google.com/document/d/1hT3L5L15tXU9I19EtVc4c99L4t3DAc9u/edit?usp=sharing&ouid=101206748234661541234&rtpof=true&sd=true" target="_blank"> Link to my resume! </a>
     <a href = "https://github.com/Wls170?tab=repositories" target= "_blank"> Projects </a>
         </div>
-   <p style="font-size: 20px;"> Thank you for taking the time to visit my website! I hope you found everything you were looking for. 
+   <p style="font-size: 20px;"> Thank you for taking the time to visit my website! I hope you find everything you were looking for. 
     Feel free to explore more about my projects (this is my first), experiences, and connect with me. If you have any questions 
     or would like to collaborate, don't hesitate to reach out. Your feedback and support are greatly appreciated! </p>
 <div class = "image-text-container">
