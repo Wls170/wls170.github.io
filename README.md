@@ -72,10 +72,10 @@
     height:120px;
     }
     .image-text-container (
-    flex-direction:column;
+    flex-direction: column;
     }
-    .text-content;{
-    text-align:center;
+    .text-content{
+    text-align: center;
     font-size:16px;
     margin:10px;
     }
