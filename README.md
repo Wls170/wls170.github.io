@@ -50,8 +50,8 @@ body {
         margin-left: 270px; 
         }
   .image-text-container img {
-            width: 300px  ;  
-            height: 300px  ; 
+            width: 300px !important  ;  
+            height: 300px !important ; 
             border-radius: 50%;
             object-fit: cover;
             margin-right: 100px; 
