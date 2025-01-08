@@ -43,9 +43,10 @@
        font-size: 1.5em;
        }
     .image-text-container  {
-            display: flex; 
-            align-items: center; 
-            margin: 20px;
+        display: flex; 
+        flex-direction: column;
+        align-items: center; 
+        margin: 20px;
         }
 
       
