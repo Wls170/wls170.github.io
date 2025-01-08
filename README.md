@@ -74,7 +74,7 @@ body {
     height:120px;
     }
  
- .image-text-container (
+ .image-text-container {
     flex-direction: row;
     margin-left: 270px;
     }
