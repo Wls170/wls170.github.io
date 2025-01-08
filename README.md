@@ -64,6 +64,7 @@
         }
    
     @media(min-width: 600px) {
+    body {
     #sidebar {
     width:250px;
     position: fixed;
@@ -84,13 +85,14 @@
     }
    @media(max-width: 600px) {
             body {
+            display: flex;
                 flex-direction: column; 
                 margin-left: 0;
             }
 
             #sidebar {
                 width:60%;
-                position: fixed; 
+                position: relative; 
                 height: auto;
                 padding: 10px;
                 box-sizing: border-box;
@@ -110,8 +112,8 @@
                 font-size: 14px;
                 text-align: center;
             }
-    
     }
+    
     
     
     
