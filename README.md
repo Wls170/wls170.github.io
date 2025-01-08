@@ -65,7 +65,7 @@
     @media(min-width: 600px) {
     #sidebar {
     width: 100%;
-    position: static;
+    position: fixed;
     height: auto;
     }
     .image-text-container img {
@@ -73,7 +73,8 @@
     height:120px;
     }
     .image-text-container (
-    flex-direction: column;
+    flex-direction: row;
+    margin-left: 270px;
     }
     .text-content{
     text-align: center;
