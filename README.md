@@ -59,7 +59,7 @@
 
        
         .text-content {
-            font-size: 18px;
+            font-size: 22px;
             font-family: Arial, sans-serif;
             max-width: 60%;
         }
