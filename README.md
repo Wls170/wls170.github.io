@@ -42,21 +42,28 @@
        margin: 10px 0; 
        font-size: 1.5em;
        }
-    #circle-crop {
-    width:400px;
-    height: 400px;
-    overflow: hidden;
-   border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 20px auto;
+    .image-text-container {
+            display: flex; 
+            align-items: center; 
+            justify-content: flex-start; 
+            width: 100%;
+            margin: 20px;
         }
-      #circle-crop img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: 100% center;
+
+      
+        .image-text-container img {
+            width: 150px;  
+            height: 150px; 
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 20px; 
+        }
+
+        /* Style for the text */
+        .text-content {
+            font-size: 18px;
+            font-family: Arial, sans-serif;
+            max-width: 60%;
         }
    
 
@@ -86,11 +93,16 @@
     <a href = "#"> Projects </a>
     <a href = "#"> Contact </a>
      </div>
- 
 
-<div id = "circle-crop">
+<div id = "image-text-container">
     <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OrEK-w6nDWcQ7kNvgFWSvE5&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=ASZxaYnT2GLOsh2-NM6-scY&oh=00_AYBEogK94jrBQBqG0QVkIsKc4fV7N5HbAL74oYjNAr5y0A&oe=677F912D" alt="WillStearn"> </div>    
- 
+  <h2> Details: </h2>
+ <p>
+ Name: William Stearn
+ Age: 35
+ Location: Barberton, Ohio
+ Email: Wls170@icloud.com
+   <p>
     <p style="font-size: 20px;">Thanks for visiting! On this website, you can view my resume, learn a little bit more about me, view projects that I am working on (this is my first!) or have completed, check out my LinkedIn and find my contact info! </p>
 
     <p style="font-size: 22px;"> Currently I work full-time as a Production Supervisor at a Synthomer. Synthomer supplies highly specialized polymers to multiple industries worldwide. I have been with them since 2018 starting from an entry level worker and progressively working my way up to supervisor. I am also pursuing my BS in Computer Science at Southern New Hampshire University (SNHU). I am taking classes geared towards Software Engineering with an expected completion date of early 2027. In  my free time I enjoy spending time with my family, practicing my coding skill, checking out new spots around town and gaming. </p>
