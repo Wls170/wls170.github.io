@@ -53,9 +53,9 @@
         .main-container {
             display: flex;
             justify-content: space-between;
-            margin-left: 270px;
+            margin-left: 100px;
             margin-top: 30px;
-            flex-wrap: wrap; /* Allow items to wrap if necessary */
+            flex-wrap: wrap; 
         }
 
       
