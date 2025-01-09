@@ -53,7 +53,7 @@
         .main-container {
             display: flex;
             justify-content: space-between;
-            margin-left: 100px;
+            margin-left: 50px;
             margin-top: 30px;
             flex-wrap: wrap; 
         }
