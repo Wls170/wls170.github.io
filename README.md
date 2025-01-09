@@ -48,8 +48,47 @@ body {
             margin-left: 270px;
             margin-top: 30px;
             }
+.skills-section {
+            width: 30%;
+            text-align: center;
+            margin-bottom: 20px; 
+        }
+
+   .skills-section h2 {
+            font-size: 24px;
+        }
+
+ .skills-section p {
+            font-size: 18px;
+        }
+
+   .image-text-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 20px;
+            width: 30%;
+            text-align: center;
+        }
         
         
+        
+.details-section {
+            width: 30%;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+.details-section h2 {
+            font-size:24px;
+            }
+ .details-section p {
+            font-size: 18px;
+        }
+.main-container {
+                flex-wrap: nowrap;
+    }              
         
    .image-text-container  {
         display: flex; 
@@ -159,7 +198,7 @@ body {
     or would like to collaborate, don't hesitate to reach out. Your feedback and support are greatly appreciated! </p>
 
 <div class="image-text-container">
-    <div class = "text-content">
+    <div class = "skills-section">
       <h2> Skills: </h2>
         <p><b> Effective Communication </b> </p>
         <p><b> Microsoft Products  </b> </p>
@@ -170,7 +209,7 @@ body {
        <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OrEK-w6nDWcQ7kNvgFWSvE5&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=ASZxaYnT2GLOsh2-NM6-scY&oh=00_AYBEogK94jrBQBqG0QVkIsKc4fV7N5HbAL74oYjNAr5y0A&oe=677F912D" alt="WillStearn"> 
 </div>
    
-    <div class= "text-content">
+    <div class= "details-section">
     <h2> Details: </h2>
 <p><b> Name: William Stearn </b> </p>
 <p><b> Age: 35  </b></p>
