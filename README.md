@@ -182,7 +182,6 @@
 
         
         <div class="image-text-container">
-            <!-- Replace this URL with your actual image URL -->
             <img src="https://www.facebook.com/photo/?fbid=10229830880185792&set=a.1557853795875" alt="WillStearn"> 
         </div>
 
