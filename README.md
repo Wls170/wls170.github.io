@@ -182,7 +182,7 @@
 
         
         <div class="image-text-container">
-            <img src="https://www.facebook.com/photo.php?fbid=10231263794967766&set=pb.1521156842.-2207520000&type=3" alt="WillStearn"> 
+            <img src="https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/363440628_10231263865289524_1224367189268874357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tmrxfodwlisQ7kNvgHgS9Gp&_nc_oc=Adh6M6G6Ilds9gwR5FBiGbTL4_S3RcShEZQ2LSdsx4nzeA1WdnqmIWCCw0fYQNSDdBw&_nc_zt=23&_nc_ht=scontent.fosu2-1.fna&_nc_gid=AmjSQRuQ0sQp9PJ-OHY5C6b&oh=00_AYCqJDFj08aqMhutqzZb482ZphsL0T9l_B2bvSg6u_FIuA&oe=67C6C22D" alt="WillStearn"> 
         </div>
 
        
